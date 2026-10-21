@@ -145,6 +145,18 @@
       "lng": 11.44844323396683,
       "address": "Skovbrynet",
       "description": "På Skovbrynets legeplads og hænger spøgelser i vinduerne som ”Halloween-jægerne” kan tælle og så efterfølgende lægge en seddel i vores postkasse, med antal talte spøgelser.\nMandag har vi en trick or treat hilsen til vinderne."
+    },
+    {
+      "lat": 55.35993995992174,
+      "lng": 11.438414454460146,
+      "address": "Vinkelvej 4",
+      "description": ""
+    },
+    {
+      "lat": 55.36256679113266,
+      "lng": 11.443363130092623,
+      "address": "Egebjergvej 13",
+      "description": ""
     }
   ]
 }
