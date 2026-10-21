@@ -1,1 +1,126 @@
-{"type":"sorby-halloween","version":1,"houses":[]}
+{
+  "type": "sorby-halloween",
+  "version": 1,
+  "houses": [
+    {
+      "lat": 55.36598766108127,
+      "lng": 11.447166502475739,
+      "address": "sørby parkvej 28",
+      "description": ""
+    },
+    {
+      "lat": 55.36103004742903,
+      "lng": 11.445527672767641,
+      "address": "Kirkerupvej 14",
+      "description": ""
+    },
+    {
+      "lat": 55.36296011475282,
+      "lng": 11.44404172897339,
+      "address": "Egebjergvej 33",
+      "description": ""
+    },
+    {
+      "lat": 55.36302414380943,
+      "lng": 11.440573632717134,
+      "address": "Bøstrupvej 59",
+      "description": ""
+    },
+    {
+      "lat": 55.36242958429909,
+      "lng": 11.436392068862915,
+      "address": "Sørby Parkvej 65",
+      "description": ""
+    },
+    {
+      "lat": 55.36319641194751,
+      "lng": 11.442357301712038,
+      "address": "Egebjergvej 43",
+      "description": ""
+    },
+    {
+      "lat": 55.361113899070816,
+      "lng": 11.43961876630783,
+      "address": "Sørby Parkvej 23",
+      "description": ""
+    },
+    {
+      "lat": 55.3638824280681,
+      "lng": 11.447555422782898,
+      "address": "Søparken 23",
+      "description": "Høflig selv betjening"
+    },
+    {
+      "lat": 55.36495868717645,
+      "lng": 11.448081135749817,
+      "address": "Søparken 11",
+      "description": ""
+    },
+    {
+      "lat": 55.36195850388413,
+      "lng": 11.438441276550293,
+      "address": "Sørby Parkvej 39",
+      "description": ""
+    },
+    {
+      "lat": 55.36326653858544,
+      "lng": 11.446957290172579,
+      "address": "Søparken 31",
+      "description": ""
+    },
+    {
+      "lat": 55.362210052376106,
+      "lng": 11.436134576797485,
+      "address": "Sørby Parkvej 67",
+      "description": ""
+    },
+    {
+      "lat": 55.35953440921559,
+      "lng": 11.438583433628084,
+      "address": "Vinkelvej 8",
+      "description": ""
+    },
+    {
+      "lat": 55.36580625873532,
+      "lng": 11.446622014045717,
+      "address": "Søparken 55",
+      "description": ""
+    },
+    {
+      "lat": 55.36467209412566,
+      "lng": 11.446764171123506,
+      "address": "Søparken 47",
+      "description": ""
+    },
+    {
+      "lat": 55.363210132386456,
+      "lng": 11.445954144001009,
+      "address": "Egebjergvej 26",
+      "description": ""
+    },
+    {
+      "lat": 55.365819927111914,
+      "lng": 11.442555605152705,
+      "address": "Egebjergvej 111",
+      "description": ""
+    },
+    {
+      "lat": 55.358885434951446,
+      "lng": 11.444318450848805,
+      "address": "Håndværkervænget 3",
+      "description": ""
+    },
+    {
+      "lat": 55.36153467917277,
+      "lng": 11.438714861869814,
+      "address": "Sørby Parkvej 35",
+      "description": ""
+    },
+    {
+      "lat": 55.36268875236317,
+      "lng": 11.438894569873812,
+      "address": "Sørby Parkvej 28",
+      "description": ""
+    }
+  ]
+}
