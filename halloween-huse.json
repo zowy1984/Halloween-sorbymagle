@@ -157,6 +157,30 @@
       "lng": 11.443363130092623,
       "address": "Egebjergvej 13",
       "description": ""
+    },
+    {
+      "lat": 55.36136240380224,
+      "lng": 11.438430547714235,
+      "address": "Sørby Parkvej 33",
+      "description": ""
+    },
+    {
+      "lat": 55.36501509088354,
+      "lng": 11.44499123096466,
+      "address": "Egebjergvej 82",
+      "description": ""
+    },
+    {
+      "lat": 55.3639464556327,
+      "lng": 11.447171866893768,
+      "address": "Søparken 18",
+      "description": ""
+    },
+    {
+      "lat": 55.36292047766587,
+      "lng": 11.437695622444153,
+      "address": "Sørby parkvej 46",
+      "description": ""
     }
   ]
 }
