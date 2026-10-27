@@ -187,6 +187,12 @@
       "lng": 11.447764635086061,
       "address": "Søparken 8",
       "description": "høflig selvbetjening"
+    },
+    {
+      "lat": 55.363859561055655,
+      "lng": 11.440656781196596,
+      "address": "Bøstrupvej 45",
+      "description": ""
     }
   ]
 }
