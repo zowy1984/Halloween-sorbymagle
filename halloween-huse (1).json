@@ -193,6 +193,18 @@
       "lng": 11.440656781196596,
       "address": "Bøstrupvej 45",
       "description": ""
+    },
+    {
+      "lat": 55.36281986026685,
+      "lng": 11.44253432750702,
+      "address": "Egebjergvej 23",
+      "description": ""
+    },
+    {
+      "lat": 55.36190819399389,
+      "lng": 11.447936296463014,
+      "address": "Hvilebjergvej 1",
+      "description": ""
     }
   ]
 }
