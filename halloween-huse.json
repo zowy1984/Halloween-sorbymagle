@@ -205,6 +205,18 @@
       "lng": 11.447936296463014,
       "address": "Hvilebjergvej 1",
       "description": ""
+    },
+    {
+      "lat": 55.3619691756708,
+      "lng": 11.439337134361269,
+      "address": "Sørby Parkvej 16",
+      "description": ""
+    },
+    {
+      "lat": 55.36342356082417,
+      "lng": 11.435662508010866,
+      "address": "Sørby Parkvej 81",
+      "description": ""
     }
   ]
 }
