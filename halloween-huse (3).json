@@ -1,0 +1,210 @@
+{
+  "type": "sorby-halloween",
+  "version": 1,
+  "houses": [
+    {
+      "lat": 55.36598766108127,
+      "lng": 11.447166502475739,
+      "address": "sørby parkvej 28",
+      "description": ""
+    },
+    {
+      "lat": 55.36103004742903,
+      "lng": 11.445527672767641,
+      "address": "Kirkerupvej 14",
+      "description": ""
+    },
+    {
+      "lat": 55.36296011475282,
+      "lng": 11.44404172897339,
+      "address": "Egebjergvej 33",
+      "description": ""
+    },
+    {
+      "lat": 55.36302414380943,
+      "lng": 11.440573632717134,
+      "address": "Bøstrupvej 59",
+      "description": ""
+    },
+    {
+      "lat": 55.36242958429909,
+      "lng": 11.436392068862915,
+      "address": "Sørby Parkvej 65",
+      "description": ""
+    },
+    {
+      "lat": 55.36319641194751,
+      "lng": 11.442357301712038,
+      "address": "Egebjergvej 43",
+      "description": ""
+    },
+    {
+      "lat": 55.361113899070816,
+      "lng": 11.43961876630783,
+      "address": "Sørby Parkvej 23",
+      "description": ""
+    },
+    {
+      "lat": 55.3638824280681,
+      "lng": 11.447555422782898,
+      "address": "Søparken 23",
+      "description": "Høflig selv betjening"
+    },
+    {
+      "lat": 55.36495868717645,
+      "lng": 11.448081135749817,
+      "address": "Søparken 11",
+      "description": ""
+    },
+    {
+      "lat": 55.36195850388413,
+      "lng": 11.438441276550293,
+      "address": "Sørby Parkvej 39",
+      "description": ""
+    },
+    {
+      "lat": 55.36326653858544,
+      "lng": 11.446957290172579,
+      "address": "Søparken 31",
+      "description": ""
+    },
+    {
+      "lat": 55.362210052376106,
+      "lng": 11.436134576797485,
+      "address": "Sørby Parkvej 67",
+      "description": ""
+    },
+    {
+      "lat": 55.35953440921559,
+      "lng": 11.438583433628084,
+      "address": "Vinkelvej 8",
+      "description": ""
+    },
+    {
+      "lat": 55.36580625873532,
+      "lng": 11.446622014045717,
+      "address": "Søparken 55",
+      "description": ""
+    },
+    {
+      "lat": 55.36467209412566,
+      "lng": 11.446764171123506,
+      "address": "Søparken 47",
+      "description": ""
+    },
+    {
+      "lat": 55.363210132386456,
+      "lng": 11.445954144001009,
+      "address": "Egebjergvej 26",
+      "description": ""
+    },
+    {
+      "lat": 55.365819927111914,
+      "lng": 11.442555605152705,
+      "address": "Egebjergvej 111",
+      "description": ""
+    },
+    {
+      "lat": 55.358885434951446,
+      "lng": 11.444318450848805,
+      "address": "Håndværkervænget 3",
+      "description": ""
+    },
+    {
+      "lat": 55.36153467917277,
+      "lng": 11.438714861869814,
+      "address": "Sørby Parkvej 35",
+      "description": ""
+    },
+    {
+      "lat": 55.36268875236317,
+      "lng": 11.438894569873812,
+      "address": "Sørby Parkvej 28",
+      "description": ""
+    },
+    {
+      "lat": 55.35959539454958,
+      "lng": 11.44117444753647,
+      "address": "Sørby hovedegade 33B",
+      "description": ""
+    },
+    {
+      "lat": 55.35992928758796,
+      "lng": 11.440348327159883,
+      "address": "Sørby Hovedgade 33A",
+      "description": "Skovsgaard Mølle og Bagerimuseum, kom forbi og lave din egen små kage, for et mindre beløb, der er åben fra kl 16-19, PLUS der er WC stop"
+    },
+    {
+      "lat": 55.3585601557656,
+      "lng": 11.44394785165787,
+      "address": "Håndværkervænget 1",
+      "description": "Freck Autoteknik deler Lyssværd ud, PLUS WC PIT-STOP"
+    },
+    {
+      "lat": 55.36122976650169,
+      "lng": 11.44844323396683,
+      "address": "Skovbrynet",
+      "description": "På Skovbrynets legeplads og hænger spøgelser i vinduerne som ”Halloween-jægerne” kan tælle og så efterfølgende lægge en seddel i vores postkasse, med antal talte spøgelser.\nMandag har vi en trick or treat hilsen til vinderne."
+    },
+    {
+      "lat": 55.35993995992174,
+      "lng": 11.438414454460146,
+      "address": "Vinkelvej 4",
+      "description": ""
+    },
+    {
+      "lat": 55.36256679113266,
+      "lng": 11.443363130092623,
+      "address": "Egebjergvej 13",
+      "description": ""
+    },
+    {
+      "lat": 55.36136240380224,
+      "lng": 11.438430547714235,
+      "address": "Sørby Parkvej 33",
+      "description": ""
+    },
+    {
+      "lat": 55.36501509088354,
+      "lng": 11.44499123096466,
+      "address": "Egebjergvej 82",
+      "description": ""
+    },
+    {
+      "lat": 55.3639464556327,
+      "lng": 11.447171866893768,
+      "address": "Søparken 18",
+      "description": ""
+    },
+    {
+      "lat": 55.36292047766587,
+      "lng": 11.437695622444153,
+      "address": "Sørby parkvej 46",
+      "description": ""
+    },
+    {
+      "lat": 55.36468581405304,
+      "lng": 11.447764635086061,
+      "address": "Søparken 8",
+      "description": "høflig selvbetjening"
+    },
+    {
+      "lat": 55.363859561055655,
+      "lng": 11.440656781196596,
+      "address": "Bøstrupvej 45",
+      "description": ""
+    },
+    {
+      "lat": 55.36281986026685,
+      "lng": 11.44253432750702,
+      "address": "Egebjergvej 23",
+      "description": ""
+    },
+    {
+      "lat": 55.36190819399389,
+      "lng": 11.447936296463014,
+      "address": "Hvilebjergvej 1",
+      "description": ""
+    }
+  ]
+}
